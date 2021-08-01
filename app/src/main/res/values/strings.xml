@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">17사단 서구동구예비군훈련장 관리자</string>
+    <string name="enter_link_korean">링크를 입력하세요</string>
+    <string name="load_file_korean">파일 불러오기</string>
+    <string name="file_not_loaded_korean">파일이 로드되지 않음</string>
+    <string name="name_korean">이름</string>
+    <string name="birthday_korean">생년월일</string>
+    <string name="back_4_number_korean">휴대전화 번호 뒤 4자리</string>
+    <string name="name">Name</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="item1">Item1</string>
+    <string name="number">Number</string>
+    <string name="birthday">Birthday</string>
+    <string name="file_loaded_korean">파일 로딩 완료</string>
+    <string name="download_file_korean">파일 다운받기</string>
+    <string name="answered_yes_korean">"예"라고 대답한 항목</string>
+    <string name="special_list_korean">특이사항 있는 예비군 목록</string>
+    <string name="check_special_list_korean">2. 특이자 리스트 확인</string>
+    <string name="search_checklist_korean">1. 예비군 문진 검색</string>
+    <string name="from_korean">부터</string>
+    <string name="to_korean">까지</string>
+    <string name="check_list_korean">목록 확인</string>
+    <string name="select_end_day_korean">터치하여 검색 종료일 선택</string>
+    <string name="select_start_day_korean">터치하여 검색 시작일 선택</string>
+    <string name="check_checklist_korean">3. 문진 작성 여부 확인</string>
+    <string name="button_register_namelist">명단 등록 및 확인</string>
+    <string name="button_check_whether">작성 여부 확인</string>
+    <string name="select_date_korean">훈련일 선택</string>
+    <string name="register_korean">등록</string>
+    <string name="select_train_day">터치하여 훈련일 선택</string>
+    <string name="push_button_korean">버튼을 눌러주세요</string>
+    <string name="register_name_list_korean">3. 훈련 명단 등록</string>
+    <string name="check_day_list_korean">4. 훈련일별 문진 작성 여부 확인</string>
+    <string name="reset_korean">초기화</string>
+</resources>
